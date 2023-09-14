@@ -1,6 +1,5 @@
 # RaspberryPi-IDS-Suricata-ELK-Setup
 
-<br><br>
 
 ## About
 
